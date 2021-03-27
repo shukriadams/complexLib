@@ -1,0 +1,2 @@
+cd ComplexLib
+dotnet build
