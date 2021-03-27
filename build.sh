@@ -1,2 +1,2 @@
-cd ComplexLib
+dotnet paket install
 dotnet build
